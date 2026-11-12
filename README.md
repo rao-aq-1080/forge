@@ -1,4 +1,3 @@
-(https://github.com/user-attachments/files/34754482/README.md)
 # 🔨 Forge
 
 > **A multi-agent AI software engineering team that plans, builds, tests, reviews, and repairs your code.**
